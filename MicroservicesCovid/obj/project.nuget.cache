@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1GLUnBDFxGcuzwbhOy7kWxlXSR8r1rkLb/l+jG9CqiIT6JM+myyVIPE0yuWBiX5sLgXjD2ZyC3fTlLnnv/0pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonathan Rodriguez\\Documents\\MicroserviceCovid\\MicroservicesCore\\MicroservicesCovid\\MicroservicesCovid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan Rodriguez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jonathan Rodriguez\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\Jonathan Rodriguez\\.nuget\\packages\\swashbuckle.aspnetcore\\5.3.1\\swashbuckle.aspnetcore.5.3.1.nupkg.sha512",
+    "C:\\Users\\Jonathan Rodriguez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.3.1\\swashbuckle.aspnetcore.swagger.5.3.1.nupkg.sha512",
+    "C:\\Users\\Jonathan Rodriguez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.3.1\\swashbuckle.aspnetcore.swaggergen.5.3.1.nupkg.sha512",
+    "C:\\Users\\Jonathan Rodriguez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.3.1\\swashbuckle.aspnetcore.swaggerui.5.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
